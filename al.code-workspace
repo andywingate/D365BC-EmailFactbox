@@ -7,5 +7,7 @@
       "path": "Document Emails"
     }
   ],
-  "settings": {}
+  "settings": {
+    "powershell.cwd": "c:\\AL\\D365BC-EmailFactbox\\.AL-Go"
+  }
 }
